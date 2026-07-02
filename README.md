@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Network+%26+Infrastructure+Specialist;IoT+Developer+%7C+ESP8266+%7C+ESP32;Cisco+%7C+MikroTik+Network+Engineer;Altium+Designer+Hardware+Engineer;Linux+%26+Windows+Server+Administrator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Network+%26+Infrastructure+Specialist;LAN+%26+Wireless+Network+Engineer;IoT+Developer+%7C+ESP8266+%7C+ESP32;Cisco+%7C+MikroTik+Network+Engineer;Altium+Designer+Hardware+Engineer;Linux+%26+Windows+Server+Administrator" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Mostafa MirMousavi (viramedar)
 
 <p align="center">
-🚀 Embedded Systems | 🌐 Network Engineer | 🖧 Infrastructure & Server Specialist
+🚀 Embedded Systems | 🌐 Network & Infrastructure Engineer | 🖧 IoT & Server Specialist
 </p>
 
 ---
@@ -16,8 +16,9 @@
 ## 🧠 About Me
 
 🔧 Designing embedded systems (hardware → firmware → web integration)  
-🌐 Network engineering (Cisco / MikroTik routing & switching)  
-🖧 Server administration (Windows Server / Linux environments)  
+🌐 Network engineering (Cisco / MikroTik / LAN & Wireless networks)  
+📡 Design & deployment of LAN & Wireless infrastructures  
+🖧 Server administration (Linux / Windows Server environments)  
 ⚡ IoT systems development (ESP8266 / ESP32 / Arduino)  
 🧩 Hardware design using Altium Designer  
 💡 Building scalable communication & automation systems  
@@ -27,7 +28,8 @@
 ## 🚀 Core Expertise
 
 - Embedded Systems (ESP8266 / ESP32 / Arduino)
-- Network Design & Configuration (Cisco / MikroTik)
+- Network Design & Administration (Cisco / MikroTik)
+- LAN & Wireless Network Architecture (WiFi / AP / Routing)
 - Server Management (Linux / Windows Server)
 - Hardware Design (Altium Designer PCB)
 - IoT & Smart Systems Development
@@ -59,6 +61,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MikroTik-Routing-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LAN-Network-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireless-WiFi%20Networks-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux-Server-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Windows-Server-0078D6?style=for-the-badge" />
 </p>
@@ -74,7 +78,7 @@ Embedded Web File Manager & Media Server
 ✔ Upload / Delete / Manage files  
 ✔ LittleFS storage engine  
 ✔ REST API + Web UI  
-✔ Works as mini embedded CDN  
+✔ Works as mini embedded CDN for IoT systems  
 
 ---
 
@@ -112,10 +116,10 @@ Embedded Web File Manager & Media Server
 
 ## ⚡ Philosophy
 
-> “I design systems where hardware, network, and software become one intelligent ecosystem.”
+> “I design systems where hardware, LAN/Wireless networks, and software become one intelligent ecosystem.”
 
 ---
 
 <p align="center">
-🔥 Built with Embedded Systems + Networking + Infrastructure Engineering 🔥
+🔥 Embedded + Networking + Infrastructure + Wireless Systems 🔥
 </p>
