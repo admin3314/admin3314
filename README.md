@@ -1,52 +1,66 @@
 <!-- ===================== HEADER ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;IoT+Developer+%7C+ESP8266+%7C+ESP32;Hardware+%2B+Software+Integration;Network+%26+Automation+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Network+%26+Infrastructure+Specialist;IoT+Developer+%7C+ESP8266+%7C+ESP32;Cisco+%7C+MikroTik+Network+Engineer;Altium+Designer+Hardware+Engineer;Linux+%26+Windows+Server+Administrator" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Mostafa MirMousavi
+# 👋 Hi, I'm Mostafa MirMousavi (viramedar)
 
 <p align="center">
-🚀 Embedded Systems Engineer | ⚡ IoT Developer | 🌐 Network & Hardware Designer
+🚀 Embedded Systems | 🌐 Network Engineer | 🖧 Infrastructure & Server Specialist
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🔧 Designing embedded systems from hardware to web interface  
-⚡ Working with ESP8266 / ESP32 / Arduino platforms  
-🌐 Building network-based IoT systems and smart devices  
-🧩 Integrating electronics + software + communication systems  
-💡 Focused on real-world automation and smart control systems  
+🔧 Designing embedded systems (hardware → firmware → web integration)  
+🌐 Network engineering (Cisco / MikroTik routing & switching)  
+🖧 Server administration (Windows Server / Linux environments)  
+⚡ IoT systems development (ESP8266 / ESP32 / Arduino)  
+🧩 Hardware design using Altium Designer  
+💡 Building scalable communication & automation systems  
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Core Expertise
 
-- Smart IoT Devices (ESP32 / ESP8266)
-- Web-based embedded dashboards
-- File systems for microcontrollers (LittleFS / SPIFFS)
-- Network communication protocols
-- Industrial automation & control systems
+- Embedded Systems (ESP8266 / ESP32 / Arduino)
+- Network Design & Configuration (Cisco / MikroTik)
+- Server Management (Linux / Windows Server)
+- Hardware Design (Altium Designer PCB)
+- IoT & Smart Systems Development
+- Web-based embedded dashboards & APIs
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,linux,windows,git,github,vscode" />
 </p>
 
 ---
 
-## ⚡ Hardware & IoT
+## ⚡ Hardware & Embedded
 
 <p align="center">
 <img src="https://img.shields.io/badge/ESP8266-IoT-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ESP32-Advanced-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Arduino-Microcontroller-00979D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Altium-Designer-red?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Networking & Infrastructure
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MikroTik-Routing-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-Server-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Windows-Server-0078D6?style=for-the-badge" />
 </p>
 
 ---
@@ -54,13 +68,13 @@
 ## 📌 Featured Project
 
 ### 🔥 ViraMediaWeb
+Embedded Web File Manager & Media Server
 
-ESP8266 / ESP32 Web File Manager + Media Server
-
-✔ Upload / Delete / Preview files  
-✔ LittleFS based storage system  
-✔ Web UI + REST API  
-✔ Works as embedded CDN for IoT systems  
+✔ ESP8266 / ESP32 based system  
+✔ Upload / Delete / Manage files  
+✔ LittleFS storage engine  
+✔ REST API + Web UI  
+✔ Works as mini embedded CDN  
 
 ---
 
@@ -81,15 +95,15 @@ ESP8266 / ESP32 Web File Manager + Media Server
 <p align="center">
 
 <a href="https://t.me/viramedar">
-<img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
+<img src="https://img.shields.io/badge/Telegram-viramedar-blue?style=for-the-badge&logo=telegram" />
 </a>
 
 <a href="https://youtube.com/@viramedar">
-<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" />
+<img src="https://img.shields.io/badge/YouTube-viramedar-red?style=for-the-badge&logo=youtube" />
 </a>
 
 <a href="https://instagram.com/viramedar">
-<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-viramedar-purple?style=for-the-badge&logo=instagram" />
 </a>
 
 </p>
@@ -98,10 +112,10 @@ ESP8266 / ESP32 Web File Manager + Media Server
 
 ## ⚡ Philosophy
 
-> “I don’t just write code — I design systems that connect hardware to intelligence.”
+> “I design systems where hardware, network, and software become one intelligent ecosystem.”
 
 ---
 
 <p align="center">
-🔥 Built with ESP + Electronics + Networking + Passion 🔥
+🔥 Built with Embedded Systems + Networking + Infrastructure Engineering 🔥
 </p>
