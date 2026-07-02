@@ -1,95 +1,82 @@
-<!-- ===================== HEADER ANIMATION ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Network+%26+Infrastructure+Specialist;LAN+%26+Wireless+Network+Engineer;IoT+Developer+%7C+ESP8266+%7C+ESP32;Cisco+%7C+MikroTik+Network+Engineer;Altium+Designer+Hardware+Engineer;Linux+%26+Windows+Server+Administrator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Embedded+%26+Network+Engineering+Studio;🌐+LAN+%26+Wireless+Infrastructure+Designer;⚡+IoT+%7C+ESP8266+%7C+ESP32+Expert;🖧+Cisco+%26+MikroTik+Network+Engineer;🧠+Linux+%26+Windows+Server+Specialist;🛠️+Altium+Hardware+Design+Engineer" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Mostafa MirMousavi (viramedar)
-
+<!-- SNAKE ANIMATION -->
 <p align="center">
-🚀 Embedded Systems | 🌐 Network & Infrastructure Engineer | 🖧 IoT & Server Specialist
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-🔧 Designing embedded systems (hardware → firmware → web integration)  
-🌐 Network engineering (Cisco / MikroTik / LAN & Wireless networks)  
-📡 Design & deployment of LAN & Wireless infrastructures  
-🖧 Server administration (Linux / Windows Server environments)  
-⚡ IoT systems development (ESP8266 / ESP32 / Arduino)  
-🧩 Hardware design using Altium Designer  
-💡 Building scalable communication & automation systems  
-
----
-
-## 🚀 Core Expertise
-
-- Embedded Systems (ESP8266 / ESP32 / Arduino)
-- Network Design & Administration (Cisco / MikroTik)
-- LAN & Wireless Network Architecture (WiFi / AP / Routing)
-- Server Management (Linux / Windows Server)
-- Hardware Design (Altium Designer PCB)
-- IoT & Smart Systems Development
-- Web-based embedded dashboards & APIs
-
----
-
-## 🛠️ Tech Stack
+# 👋 Hi, I'm **Mostafa MirMousavi (viramedar)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,linux,windows,git,github,vscode" />
+🚀 Embedded Systems | 🌐 Network Engineer | ⚡ IoT Developer | 🧠 Infrastructure Specialist
 </p>
 
 ---
 
-## ⚡ Hardware & Embedded
+## 💡 About Me
+
+✔ Designing embedded systems from hardware to software integration  
+✔ Building LAN & Wireless network infrastructures  
+✔ Developing IoT & smart automation systems  
+✔ Server administration (Linux / Windows Server)  
+✔ PCB design using Altium Designer  
+✔ Building scalable communication systems  
+
+---
+
+## 🚀 What I Do
 
 <p align="center">
-<img src="https://img.shields.io/badge/ESP8266-IoT-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESP32-Advanced-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arduino-Microcontroller-00979D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Altium-Designer-red?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/IoT_Solutions-Smart_Devices-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network-Cisco%20%7C%20MikroTik-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireless-LAN%20%26%20WiFi-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Servers-Linux%20%7C%20Windows-red?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 🌐 Networking & Infrastructure
+## ⚙️ Core Expertise
 
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MikroTik-Routing-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LAN-Network-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireless-WiFi%20Networks-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-Server-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Windows-Server-0078D6?style=for-the-badge" />
-</p>
+- ⚡ Embedded Systems (ESP8266 / ESP32 / Arduino)
+- 🌐 LAN & Wireless Network Design
+- 🖧 Cisco / MikroTik Routing & Switching
+- 🧠 Linux & Windows Server Administration
+- 🧩 PCB Design (Altium Designer)
+- 📡 IoT Smart Systems
+- 🔗 Web-based embedded dashboards & APIs
 
 ---
 
-## 📌 Featured Project
+## 🔥 Featured Project
 
-### 🔥 ViraMediaWeb
-Embedded Web File Manager & Media Server
+### 💠 ViraMediaWeb
 
-✔ ESP8266 / ESP32 based system  
-✔ Upload / Delete / Manage files  
-✔ LittleFS storage engine  
+🚀 Embedded Web File Manager + Media Server
+
+✔ File Upload / Delete / View  
+✔ LittleFS storage system  
 ✔ REST API + Web UI  
-✔ Works as mini embedded CDN for IoT systems  
+✔ Works as embedded cloud for IoT devices  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admin3314&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=admin3314&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=admin3314&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=admin3314&theme=radical" />
 </p>
 
 ---
@@ -99,27 +86,27 @@ Embedded Web File Manager & Media Server
 <p align="center">
 
 <a href="https://t.me/viramedar">
-<img src="https://img.shields.io/badge/Telegram-viramedar-blue?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/Telegram-viramedar-blue?style=for-the-badge&logo=telegram" />
 </a>
 
 <a href="https://youtube.com/@viramedar">
-<img src="https://img.shields.io/badge/YouTube-viramedar-red?style=for-the-badge&logo=youtube" />
+  <img src="https://img.shields.io/badge/YouTube-viramedar-red?style=for-the-badge&logo=youtube" />
 </a>
 
 <a href="https://instagram.com/viramedar">
-<img src="https://img.shields.io/badge/Instagram-viramedar-purple?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-viramedar-purple?style=for-the-badge&logo=instagram" />
 </a>
 
 </p>
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> “I design systems where hardware, LAN/Wireless networks, and software become one intelligent ecosystem.”
+> “I design systems where hardware, network, and software become one intelligent ecosystem.”
 
 ---
 
 <p align="center">
-🔥 Embedded + Networking + Infrastructure + Wireless Systems 🔥
+🔥 Embedded + Networking + Infrastructure + Innovation 🔥
 </p>
